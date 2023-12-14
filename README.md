@@ -7,7 +7,7 @@ Este é o código-fonte para o primeiro projeto de AED 2023-2024.
 
 | Nmec   | Name           | Email                  | Github                                                |
 | ------ | -------------- | ---------------------- | ----------------------------------------------------- |
-| 114137 | Diogo Fernandes    | <diogomiguel.fernandes@ua.pt>    | [diogu](https://github.com/diogux)       |
+| 114137 | Diogo Fernandes    | <diogomiguel.fernandes@ua.pt>    | [diogux](https://github.com/diogux)       |
 | 113736 | Raquel Vinagre   | <raquelvinagre@ua.pt>     | [raquelvinagre](https://github.com/raquelvinagre)               |
 
 
